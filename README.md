@@ -1,6 +1,6 @@
 # 📊 Customer Dashboard
 
-![Customer Dashboard](./photos/Customer%20Dashboard.png)
+![Customer Dashboard](./Photos/Customer%20Dashboard.png)
 
 > **وصف المشروع:** لوحة تحكم تفاعلية لتحليل بيانات العملاء (Customer Dashboard) تهدف إلى تتبع سلوكيات العملاء، قياس مؤشرات الأداء الرئيسية (KPIs)، وتسهيل اتخاذ القرارات التجارية بناءً على البيانات.
 
